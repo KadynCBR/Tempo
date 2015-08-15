@@ -1,3 +1,4 @@
+package com.kadynmartinez.tempo;
 import java.io.*;
 public class UtilityHelper {
 	public String getUserInput(String prompt) {
